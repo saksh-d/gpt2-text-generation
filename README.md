@@ -41,7 +41,7 @@ Outputs high-quality Shakespearean dialogue
 
 Run:
 ```bash
-python gpt2.py
+python mini-gpt.py
 ```
 
 ---
