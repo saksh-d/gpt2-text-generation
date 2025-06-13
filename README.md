@@ -53,3 +53,9 @@ After ~5000 steps of training:
 - Output shows structured verse, punctuation, speaker labels
 
 View `results.png`
+
+---
+
+## References
+
+Andrej Karpathy: https://github.com/karpathy
