@@ -19,7 +19,7 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu' #device agnostic code
 eval_iters = 200
 
 # Read the data
-with open('input.txt', 'r', encoding='utf-8') as f:
+with open('data/input.txt', 'r', encoding='utf-8') as f:
     text = f.read()
 
 
